@@ -3,6 +3,7 @@ SITENAME = 'Fedoran Blog'
 SITEURL = ""
 
 PATH = "content"
+OUTPUT_PATH = 'docs/'
 
 TIMEZONE = 'Asia/Shanghai'
 
